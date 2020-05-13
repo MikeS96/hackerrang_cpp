@@ -3,6 +3,7 @@
 using namespace std;
 
 /*
+
 Enter code for class Student here.
 Read statement for specification.
 
@@ -14,6 +15,7 @@ public: Public members (variables, methods) can be accessed from anywhere the co
 private: Private members can be accessed only by other member functions, and it can not be accessed outside of class.
 
 */
+
 class Student {
     private:
         int age;
