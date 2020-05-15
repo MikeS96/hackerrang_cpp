@@ -1,3 +1,14 @@
+/**
+ *  @file arrays_intro.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Backwards array sorting
+ *  @version 0.1
+ *  @date 05-15-2020
+ *
+ *  task: You'll be given an array N of integers and you have to print 
+ *	the integers in the reverse order.
+ */
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -5,12 +16,7 @@
 #include <algorithm>
 using namespace std;
 
-/*
-You'll be given an array N of integers and you have to print the integers in the reverse order.
-*/
-
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int N;
     int A, B;
     cin >> N;
