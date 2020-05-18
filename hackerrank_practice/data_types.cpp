@@ -1,9 +1,20 @@
+/**
+ *  @file data_types.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Types of data in C++
+ *  @version 0.1
+ *  @date 05-15-2020
+ *
+ *  task: Interact with the different data types in C++
+ *  and print them
+ */
+
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
 
 int main() {
-    // Complete the code.
     int integer;
     long long_integer;
     char character;
