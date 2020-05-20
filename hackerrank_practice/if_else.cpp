@@ -1,16 +1,23 @@
+/**
+ *  @file if_else.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief If and Else statements
+ *  @version 0.1
+ *  @date 05-15-2020
+ *
+ *  task: If 1 <= n <= 9, then print the lowercase English word corresponding 
+ *	to the number (e.g., one for , two for , etc.); otherwise, print Greater than 
+ *  9 instead.
+ */
+
 #include <bits/stdc++.h>
-
 using namespace std;
-
-
 
 int main()
 {
     int n;
     cin >> n;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
-
-    // If 1 <= n <= 9, then print the lowercase English word corresponding to the number     (e.g., one for , two for , etc.); otherwise, print Greater than 9 instead.
 
     if (n == 1){
         cout << "one" << endl;
