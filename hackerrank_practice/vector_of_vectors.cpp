@@ -1,11 +1,19 @@
+/**
+ *  @file vector_of_vectors.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Used vector of vectors as a matrix
+ *  @version 0.1
+ *  @date 05-15-2020
+ *
+ *  task: fill a vector of vectors and print que values queried by the user
+ */
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
 #include <iostream>
 #include <algorithm>
 using namespace std;
- 
-/* fill a vector of vectors and print que values queried by the user */
 
 int main()
 {
@@ -14,9 +22,6 @@ int main()
     // Read the number of vectors and the values which will be queried
     int n, q;
     cin >> n >> q;
-
-    // resize the vector to n elements of type vector<int>, each having size q
-    //mat.resize(n, vector<int>(q));
 
     int k;
     int temp_vals;
@@ -46,9 +51,6 @@ int main()
         cin >> row >> column;
         cout << mat[row][column] << endl;
     }
-
-
-    // print the vector
 
     return 0;
 }
