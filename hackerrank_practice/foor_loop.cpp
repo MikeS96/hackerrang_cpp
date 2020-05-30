@@ -1,9 +1,19 @@
+/**
+ *  @file for_loop.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief For loop to identify typed number
+ *  @version 0.1
+ *  @date 05-30-2020
+ *
+ */
+
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
 
 int main() {
-    // Complete the code.
+
     int a, b;
     cin >> a >> b;
 
