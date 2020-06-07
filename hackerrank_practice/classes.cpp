@@ -1,20 +1,28 @@
+/**
+ *  @file classes.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Classes and Encapsulation
+ *  @version 0.1
+ *  @date 06-07-2020
+ *
+ *  task: Classes in C++ are user defined types declared with keyword 
+ *  class that has data and functions . Although classes and structures
+ *  have the same type of functionality, there are some basic differences. 
+ *  The data members of a class are private by default and the members of a 
+ *  structure are public by default. Along with storing multiple data in a 
+ *  common block, it also assigns some functions (known as methods) to
+ *  manipulate/access them. It serves as the building block of Object Oriented Programming.
+ *
+ *  It also has access specifiers, which restrict the access of member elements. 
+ *  The primarily used ones are the following:
+ *  public: Public members (variables, methods) can be accessed from anywhere the code is visible.
+ *  private: Private members can be accessed only by other member functions, and it can 
+ *  not be accessed outside of class.
+ */
+
 #include <iostream>
 #include <sstream>
 using namespace std;
-
-/*
-
-Enter code for class Student here.
-Read statement for specification.
-
-Classes in C++ are user defined types declared with keyword class that has data and functions . Although classes and structures have the same type of functionality, there are some basic differences. The data members of a class are private by default and the members of a structure are public by default. Along with storing multiple data in a common block, it also assigns some functions (known as methods) to manipulate/access them. It serves as the building block of Object Oriented Programming.
-
-It also has access specifiers, which restrict the access of member elements. The primarily used ones are the following:
-
-public: Public members (variables, methods) can be accessed from anywhere the code is visible.
-private: Private members can be accessed only by other member functions, and it can not be accessed outside of class.
-
-*/
 
 class Student {
     private:

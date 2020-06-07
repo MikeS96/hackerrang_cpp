@@ -1,3 +1,20 @@
+/**
+ *  @file classes_objects.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Array of objects and vectors in a class
+ *  @version 0.1
+ *  @date 06-07-2020
+ *
+ *  task: Kristen is a contender for valedictorian of her high school.
+ *  She wants to know how many students (if any) have scored higher than 
+ *  her in the  exams given during this semester.
+ * 
+ *  Create a class named  with the following specifications:
+ *  An instance variable named  to hold a student's  exam scores.
+ *  A void input() function that reads  integers and saves them to 
+ *  An int calculateTotalScore() function that returns the sum of the student's scores.
+ */
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -6,25 +23,13 @@
 #include <cassert>
 using namespace std;
 
-// Write your Student class here
-
-/* 
-Kristen is a contender for valedictorian of her high school. She wants to know how many students (if any) have scored higher than her in the  exams given during this semester.
-
-Create a class named  with the following specifications:
-
-An instance variable named  to hold a student's  exam scores.
-A void input() function that reads  integers and saves them to .
-An int calculateTotalScore() function that returns the sum of the student's scores.
-*/
-
 class Student
 {       
     private: // declare private members
-    vector<int> scores;
+        vector<int> scores;
     public: // declare public functions
-    void input();
-    int calculateTotalScore();
+        void input();
+        int calculateTotalScore();
 
 };
 

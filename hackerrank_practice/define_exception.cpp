@@ -1,3 +1,19 @@
+/**
+ *  @file define_exception.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Create a class with a custom exception
+ *  @version 0.1
+ *  @date 06-07-2020
+ *
+ *  task: You inherited a piece of code that performs username validation for your company's website. 
+ *  The existing function works reasonably well, but it throws an exception when the username is too short.
+ *  Upon review, you realize that nobody ever defined the exception.
+ *  
+ *  The inherited code is provided for you in the locked section of your editor. 
+ *  Complete the code so that, when an exception is thrown, it prints Too short: n (where
+ *  is the length of the given username). 
+ */
+
 #include <iostream>
 #include <string>
 #include <sstream>
