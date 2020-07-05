@@ -1,3 +1,14 @@
+/**
+ *  @file sets.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Usage of sets method in C++
+ *  @version 0.1
+ *  @date 07-04-2020
+ *  
+ *  Sets are a part of the C++ STL. Sets are containers that store unique elements following a specific order.
+ *
+ */
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -6,33 +17,36 @@
 #include <algorithm>
 using namespace std;
 
-/*
-Sets are a part of the C++ STL. Sets are containers that store unique elements following a specific order.
-*/
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
-    int q;  //queries
-    int x, y; // y is the query type and x is the val
-    set<int>  s; //Creates a set of integers.
+    //queries
+    int q;
+     // y is the query type and x is the val
+    int x, y;
+    //Creates a set of integers.
+    set<int>  s; 
 
     cin >> q; 
 
     for(int i = 0; i < q; i++)
     {
         cin >> y >> x;
-
-        if(y == 1) // Add an element x to the set.
+        // Add an element x to the set.
+        if(y == 1) 
         {
-            s.insert(x); //Inserts an integer x into the set s.
+            // Inserts an integer x into the set s.
+            s.insert(x); 
         }
-        else if(y == 2) //  Delete an element x from the set. (If the number x is not            present in the set, then do nothing).
+        // Delete an element x from the set. (If the number x is not present in the set, then do nothing).
+        else if(y == 2) 
         {
-            s.erase(x); //Erases an integer val from the set s.
+            //Erases an integer val from the set s.
+            s.erase(x); 
         }
         else
         {
-            set<int>::iterator itr=s.find(x); //Gives the iterator to the element val                if it is found otherwise returns s.end() .
+            //Gives the iterator to the element val if it is found otherwise returns s.end() .
+            set<int>::iterator itr=s.find(x); 
 
             // Check if iterator points to end or not
             if(itr != s.end())
