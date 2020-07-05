@@ -25,9 +25,11 @@ using namespace std;
 
 class Student
 {       
-    private: // declare private members
+    private: 
+        // declare private members
         vector<int> scores;
-    public: // declare public functions
+    public:
+         // declare public functions
         void input();
         int calculateTotalScore();
 
