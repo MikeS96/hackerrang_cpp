@@ -1,3 +1,13 @@
+/**
+ *  @file inheritance.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Inheritance
+ *  @version 0.1
+ *  @date 07-24-2020
+ *
+ *  task: Create a class Isosceles that inherits from a base class Triangle.
+ */
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
