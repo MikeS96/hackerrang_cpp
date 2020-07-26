@@ -1,3 +1,14 @@
+/**
+ *  @file inheritance_virtual_functions.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Abstract classes and virtual functions
+ *  @version 0.1
+ *  @date 07-26-2020
+ *
+ *  task: Use virtual functions to create a RectangleArea object that inherits from an abstract class Rectangle.
+ *  Once both objects are created, use the virtual and overriden function with the same object.
+ */
+
 #include <iostream>
 
 using namespace std;
