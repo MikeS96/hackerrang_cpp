@@ -1,3 +1,13 @@
+/**
+ *  @file input_output.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief User input and vectors
+ *  @version 0.1
+ *  @date 05-15-2020
+ *
+ *  task: Read user data, store it in a Vector and print the total sum.
+ */
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
