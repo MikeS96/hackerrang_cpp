@@ -1,4 +1,14 @@
-//Operator Overloading
+/**
+ *  @file overloading_operator.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @brief Operator Overloading
+ *  @version 0.1
+ *  @date 07-30-2020
+ *
+ *  task: Overload operators + and << for the class Complex
+ *  + should add two complex numbers as (a+ib) + (c+id) = (a+c) + i(b+d)ç
+ *  << should print a complex number in the format "a+ib"
+ */
 
 #include<iostream>
 
@@ -39,9 +49,6 @@ ostream& operator<<(ostream& os, const Complex& c) {
 Complex operator+(const Complex& a, const Complex& b) { 
     return { a.a + b.a, a.b + b.b };
 }
-//Overload operators + and << for the class complex
-//+ should add two complex numbers as (a+ib) + (c+id) = (a+c) + i(b+d)
-//<< should print a complex number in the format "a+ib"
 
 int main()
 {
