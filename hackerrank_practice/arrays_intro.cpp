@@ -1,6 +1,6 @@
 /**
  *  @file arrays_intro.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
  *  @brief Backwards array sorting
  *  @version 0.1
  *  @date 05-15-2020
