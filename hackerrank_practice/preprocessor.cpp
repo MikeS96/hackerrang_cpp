@@ -1,3 +1,13 @@
+/**
+ *  @file preprocessor.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @brief Preprocessors usage
+ *  @version 0.1
+ *  @date 08-01-2020
+ *
+ *  task: Define preprocessors so the given code can works.
+ */
+
 #define INF (unsigned)!((int)0)
 #define FUNCTION(name,operator) inline void name(int &current, int candidate) {!(current operator candidate) ? current = candidate : false;}
 #define io(v) cin>>v
