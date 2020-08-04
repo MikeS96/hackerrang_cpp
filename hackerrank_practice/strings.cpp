@@ -1,3 +1,12 @@
+/**
+ *  @file strings.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @brief Basic use of strings in C++
+ *  @version 0.1
+ *  @date 08-04-2020
+ *
+ */
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -10,7 +19,8 @@ int main() {
     cout << a.size() << " " << b.size() << endl;
     cout << a + b << endl;
 
-    char temp; // Temporal char to save the first value of the string
+    // Temporal char to save the first value of the string
+    char temp; 
 
     string a_prime = a;
     a_prime[0] = b[0];
