@@ -1,3 +1,13 @@
+/**
+ *  @file string_stream.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @brief StringStream
+ *  @version 0.1
+ *  @date 08-05-2020
+ *
+ *  task: Basic usage of stringStream in C++
+ */
+
 #include <sstream>
 #include <string>
 #include <vector>
