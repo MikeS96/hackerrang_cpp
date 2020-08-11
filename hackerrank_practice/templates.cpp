@@ -1,3 +1,41 @@
+/**
+ *  @file templates.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @brief Templates
+ *  @version 0.1
+ *  @date 05-15-2020
+ *
+ *  task: A class template provides a specification for generating classes based on parameters. 
+ *  Class templates are generally used to implement containers. A class template is instantiated 
+ *  by passing a given set of types to it as template arguments. Here is an example of a class, 
+ *  MyTemplate, that can store one element of any type and that has just one member function divideBy2,
+ *  which divides its value by 2.
+ * 
+ * template <class T>
+ * class MyTemplate {
+ * T element;
+ * public:
+ * MyTemplate (T arg) {element=arg;}
+ * T divideBy2 () {return element/2;}
+ * };
+ * 
+ * It is also possible to define a different implementation of a template for a specific type. 
+ * This is called Template Specialization. For the template given above, we find that a different 
+ * implementation for type char will be more useful, so we write a function printElement to print the char element:
+ * 
+ * // class template specialization:
+ * template <>
+ * class MyTemplate <char> {
+ * char element;
+ * public:
+ * MyTemplate (char arg) {element=arg;}
+ * char printElement ()
+ * {
+ * return element;
+ * }
+ * };
+ */
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -6,33 +44,6 @@
 #include <cassert>
 using namespace std;
 
-/*
-
-A class template provides a specification for generating classes based on parameters. Class templates are generally used to implement containers. A class template is instantiated by passing a given set of types to it as template arguments. Here is an example of a class, MyTemplate, that can store one element of any type and that has just one member function divideBy2, which divides its value by 2.
-
-template <class T>
-class MyTemplate {
-T element;
-public:
-MyTemplate (T arg) {element=arg;}
-T divideBy2 () {return element/2;}
-};
-
-It is also possible to define a different implementation of a template for a specific type. This is called Template Specialization. For the template given above, we find that a different implementation for type char will be more useful, so we write a function printElement to print the char element:
-
-// class template specialization:
-template <>
-class MyTemplate <char> {
-char element;
-public:
-MyTemplate (char arg) {element=arg;}
-char printElement ()
-{
-return element;
-}
-};
-
-*/
 
 /*Write the class AddElements here*/
 template <class T> class AddElements {
