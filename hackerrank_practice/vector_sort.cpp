@@ -1,3 +1,14 @@
+/**
+ *  @file vectors_sort.cpp
+ *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @brief Sorting a vector
+ *  @version 0.1
+ *  @date 07-26-2020
+ *
+ *  task: Sort the given vector using the built-in method
+ */
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -7,7 +18,6 @@ using namespace std;
 
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
 
     vector<int> list;
     int n;
