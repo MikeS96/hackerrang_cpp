@@ -1,6 +1,6 @@
 /**
  *  @file classes.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.com)
  *  @brief Classes and Encapsulation
  *  @version 0.1
  *  @date 06-07-2020
