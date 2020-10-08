@@ -1,6 +1,6 @@
 /**
  *  @file classes_objects.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Array of objects and vectors in a class
  *  @version 0.1
  *  @date 06-07-2020
