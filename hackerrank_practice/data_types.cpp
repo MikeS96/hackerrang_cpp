@@ -1,6 +1,6 @@
 /**
  *  @file data_types.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Types of data in C++
  *  @version 0.1
  *  @date 05-15-2020
