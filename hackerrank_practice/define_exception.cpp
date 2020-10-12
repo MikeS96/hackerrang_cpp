@@ -1,6 +1,6 @@
 /**
  *  @file define_exception.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Create a class with a custom exception
  *  @version 0.1
  *  @date 06-07-2020
