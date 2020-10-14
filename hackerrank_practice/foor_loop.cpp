@@ -1,6 +1,6 @@
 /**
  *  @file for_loop.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief For loop to identify typed number
  *  @version 0.1
  *  @date 05-30-2020
