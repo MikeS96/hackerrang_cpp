@@ -1,6 +1,6 @@
 /**
  *  @file functions.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Simple usage of functions
  *  @version 0.1
  *  @date 05-22-2020
