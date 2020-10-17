@@ -1,6 +1,6 @@
 /**
  *  @file hello_world.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Hello world in CPP
  *  @version 0.1
  *  @date 05-20-2020
