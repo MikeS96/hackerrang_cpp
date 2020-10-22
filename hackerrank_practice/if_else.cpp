@@ -1,6 +1,6 @@
 /**
  *  @file if_else.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief If and Else statements
  *  @version 0.1
  *  @date 05-15-2020
