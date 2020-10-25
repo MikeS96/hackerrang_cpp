@@ -1,6 +1,6 @@
 /**
  *  @file inheritance.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Inheritance
  *  @version 0.1
  *  @date 07-24-2020
