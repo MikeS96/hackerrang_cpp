@@ -1,6 +1,6 @@
 /**
  *  @file multilevel_inheritance.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Multi-level Inheritance in C++
  *  @version 0.1
  *  @date 12-07-2020
