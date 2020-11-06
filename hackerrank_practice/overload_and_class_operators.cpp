@@ -1,6 +1,6 @@
 /**
  *  @file overload_and_class_operators.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Class with overload constructor and operators
  *  @version 0.1
  *  @date 05-15-2020
