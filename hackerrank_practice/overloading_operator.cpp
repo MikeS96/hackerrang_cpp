@@ -1,6 +1,6 @@
 /**
  *  @file overloading_operator.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Operator Overloading
  *  @version 0.1
  *  @date 07-30-2020
