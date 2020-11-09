@@ -1,6 +1,6 @@
 /**
  *  @file pointer.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Usage of pointers
  *  @version 0.1
  *  @date 07-21-2020
