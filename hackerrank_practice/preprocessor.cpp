@@ -1,6 +1,6 @@
 /**
  *  @file preprocessor.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Preprocessors usage
  *  @version 0.1
  *  @date 08-01-2020
