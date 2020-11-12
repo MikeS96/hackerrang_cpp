@@ -1,6 +1,6 @@
 /**
  *  @file sets.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Usage of sets method in C++
  *  @version 0.1
  *  @date 07-04-2020
