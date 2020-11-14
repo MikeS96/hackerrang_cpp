@@ -1,6 +1,6 @@
 /**
  *  @file strings.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Basic use of strings in C++
  *  @version 0.1
  *  @date 08-04-2020
