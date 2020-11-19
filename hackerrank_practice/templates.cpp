@@ -1,6 +1,6 @@
 /**
  *  @file templates.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Templates
  *  @version 0.1
  *  @date 05-15-2020
