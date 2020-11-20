@@ -1,6 +1,6 @@
 /**
  *  @file throw_multiple_exceptions.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Creating multiple exceptions
  *  @version 0.1
  *  @date 05-15-2020
