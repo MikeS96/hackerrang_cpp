@@ -1,6 +1,6 @@
 /**
  *  @file vectors_erase.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Removing values in a range
  *  @version 0.1
  *  @date 07-25-2020
