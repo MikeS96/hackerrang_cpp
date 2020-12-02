@@ -1,6 +1,6 @@
 /**
  *  @file vectors_sort.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Sorting a vector
  *  @version 0.1
  *  @date 07-26-2020
