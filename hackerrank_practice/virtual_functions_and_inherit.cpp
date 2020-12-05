@@ -1,6 +1,6 @@
 /**
  *  @file virtual_functions_and_inherit.cpp
- *  @author Miguel Saavedra (miguel.saaruiz@gmail@gmail.com)
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
  *  @brief Abstract classes and inherit
  *  @version 0.1
  *  @date 07-23-2020
