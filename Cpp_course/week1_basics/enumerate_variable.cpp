@@ -1,4 +1,11 @@
-/*Enum example*/
+/**
+ *  @file enumerate_variable.cpp
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
+ *  @brief Use of enumerate variable
+ *  @version 0.1
+ *  @date 12-08-2020
+ *
+ */
 
 #include <iostream>
 
