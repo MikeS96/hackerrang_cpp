@@ -1,8 +1,11 @@
-/*Formatting Output 
-**Goal: practice using cout to format output to console
-**Print the variables in three columns:
-**Ints, Floats, Doubles
-*/
+/**
+ *  @file formatt_output.cpp
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
+ *  @brief Usage of cout to format output to console
+ *  @version 0.1
+ *  @date 12-10-2020
+ *
+ */
 
 #include <iostream>
 #include <iomanip>
