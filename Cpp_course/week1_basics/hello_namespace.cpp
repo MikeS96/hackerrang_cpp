@@ -1,4 +1,11 @@
-/*Use the namespace keyword to simplify typing*/
+/**
+ *  @file hello_namespace.cpp
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
+ *  @brief Use the namespace keyword to simplify typing
+ *  @version 0.1
+ *  @date 12-11-2020
+ *
+ */
 
 #include <iostream>
 
