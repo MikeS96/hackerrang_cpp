@@ -1,11 +1,10 @@
-/*Goal: practice std::cin for strings
-**Write a program that prompts two user2 for their
-**name, address, and phone number. 
-**Print the information to the console in the following format:
-**name
-**\/t\/t address
-**\/t\/tphone number
-*/
+/**
+ *  @file String_input.cpp
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
+ *  @brief Learn to print strings
+ *  @version 0.1
+ *  @date 12-16-2020
+ */
 
 #include<iostream>
 #include<string>
