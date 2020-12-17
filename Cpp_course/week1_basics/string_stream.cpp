@@ -1,10 +1,9 @@
- /*Goal: practice getting string inputs and 
- **converting them to numeric variables using
- **stringstream.
- **
- **Prompt the user for the length of a room. 
- **Then prompt for the width of the room.
- **Print out the area of the room. 
+ /**
+ *  @file string_stream.cpp
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
+ *  @brief Practice getting string inputs
+ *  @version 0.1
+ *  @date 12-17-2020
  */
 
  #include <iostream>
