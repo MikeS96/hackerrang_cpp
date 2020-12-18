@@ -1,8 +1,13 @@
-/*This program accepts inputs from the input.txt file*/ 
+/**
+ *  @file user_input.cpp
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
+ *  @brief Usage of User Input
+ *  @version 0.1
+ *  @date 12-18-2020
+ */
 
 #include <iostream>
 #include <string>
-
 
 int main()
 {
