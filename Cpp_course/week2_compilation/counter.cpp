@@ -1,3 +1,11 @@
+/**
+ *  @file counter.cpp
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
+ *  @brief Simple counter implementation
+ *  @version 0.1
+ *  @date 12-21-2020
+ */
+
 #include <iostream>
 #include <stdio.h>
 
