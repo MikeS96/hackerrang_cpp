@@ -1,11 +1,10 @@
-/*Goal: practice arithmetic operations in C++
-**Write a program that calculates the volumes of:
-**a cube, sphere, cone.
-**Cube Volume = side^3
-**Sphere Volume = (4/3) * pi * radius^3
-**Cone Volume = pi * radius^2 * (height/3)
-**Write the values to the console.
-*/
+/**
+ *  @file arithmetic.cpp
+ *  @author Miguel Saavedra (miguel.saavedra@uao.edu.co)
+ *  @brief Practice arithmetic operations in C++
+ *  @version 0.1
+ *  @date 12-23-2020
+ */
 
 #include <iostream>
 #include <cmath>
